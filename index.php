@@ -3,8 +3,6 @@
  <title>Unitec - Cómputo en la nube</title>
 </head>
 <body>
- <h1>¡Hola! </h1>
- <p>Primera práctica de cómputo en la nube</p>
- <p><i>Gustavo Ivan Padron Osornio</i></p>
+ <h1>El Godi y el Juca me comen los huevos por detras! </h1>
 </body>
 </html>
